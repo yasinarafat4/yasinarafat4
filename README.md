@@ -1,10 +1,10 @@
 ### Hi there 👋, Md. Yasin Arafat
-#### I am a student and Content Writer
+#### I am a student and Content Writer 
 
 Skills: HTML / CSS
 
 - 🔭 I’m currently working on Themekite as a content writer. 
-- 🌱 I’m currently learning Web Development. 
+- 🌱 I’m currently learning Web Development as a beginner. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yasinarafat4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-yasin-arafat-hasib-ababaa20b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdyasinarafat.hasib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://themekite.com/)  

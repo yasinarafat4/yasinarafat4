@@ -1,5 +1,5 @@
 ### Hi there 👋, Md. Yasin Arafat
-#### I am a student and Content Writer 
+#### Do not use slang when you are angry with others, use codes that they don't understand. 
 
 Skills: HTML / CSS
 

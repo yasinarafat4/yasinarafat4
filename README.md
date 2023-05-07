@@ -1,7 +1,7 @@
 ### Hi there 👋, this is Md. Yasin Arafat
 #### Do not use slang when you are angry with others, use codes that they don't understand. 
 
-Skills: HTML / CSS / JavaScript
+Skills: HTML / CSS / JavaScript(REACT)
 
 - 🔭 I’m currently working on Themekite as a content writer. 
 - 🌱 Learning Web Development at Programming Hero. 

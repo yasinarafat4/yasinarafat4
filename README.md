@@ -1,7 +1,7 @@
-### Hi there 👋, this is Md. Yasin Arafat
+## Hi there 👋, this is Md. Yasin Arafat
 #### Do not use slang when you are angry with others, use codes that they don't understand. 
 
-Skills: HTML / CSS / JavaScript / REACT / Node JS / Express Js / MongoDB
+<b>Skills:</b> HTML / CSS / JavaScript / REACT / Node JS / Express Js / MongoDB
 
 - 🔭 I’m currently working on Themekite as a content writer. 
 - 🌱 Completed the "Complete Web Development Course" with Programming Hero. 

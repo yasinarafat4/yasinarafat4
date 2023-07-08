@@ -1,10 +1,10 @@
 ### Hi there 👋, this is Md. Yasin Arafat
 #### Do not use slang when you are angry with others, use codes that they don't understand. 
 
-Skills: HTML / CSS / JavaScript(REACT)
+Skills: HTML / CSS / JavaScript / REACT / Node JS / Express Js / MongoDB
 
 - 🔭 I’m currently working on Themekite as a content writer. 
-- 🌱 Learning Web Development at Programming Hero. 
+- 🌱 Completed the "Complete Web Development Course" with Programming Hero. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yasinarafat4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-yasin-arafat-hasib-ababaa20b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdyasinarafat.hasib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://themekite.com/)  

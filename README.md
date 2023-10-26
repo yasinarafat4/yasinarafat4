@@ -1,13 +1,18 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://arafatwebfolio.vercel.app/)
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://arafatwebfolio.vercel.app/">
+    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="800" height="350">
+  </a>
+</div>
 <h1 align="center">Hi there 👋, I'm Md. Yasin Arafat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" alt="Coding" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinarafat4&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafat4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinarafat4" alt="yasinarafat4" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yasinarafat04" target="blank"><img src="https://img.shields.io/twitter/follow/yasinarafat04?logo=twitter&style=for-the-badge" alt="yasinarafat04" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redux, Next.Js**
 
@@ -17,8 +22,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link](https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link)
 
-- ⚡ Fun fact **I am friendly, funny and an active listener**
-
+- ⚡ Fun fact **I am friendly, funny, and an active listener**
+<img align="right" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" alt="Coding" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasinarafat04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinarafat04" height="30" width="40" /></a>

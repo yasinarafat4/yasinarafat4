@@ -32,7 +32,7 @@
 <a href="https://fb.com/mdyasinarafat.hasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdyasinarafat.hasib" height="30" width="40" /></a>
 <a href="https://instagram.com/yasinahasib4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yasinahasib4/" height="30" width="40" /></a>
 <a href="https://medium.com/@mdyasinarafathasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdyasinarafathasib" height="30" width="40" /></a>
-<a href="https://discord.gg/1134766673434521630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1134766673434521630" height="30" width="40" /></a>
+<a href="https://discord.gg/_md.yasinarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1134766673434521630" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

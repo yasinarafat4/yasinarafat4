@@ -4,8 +4,9 @@
   </a>
 </div>
 <h1 align="center">Hi there 👋, I'm Md. Yasin Arafat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h3 align="center">A passionate web developer from Bangladesh</h3>
+<p>I am a Front-end Developer with a huge love for React.js, Node, MongoDB, JavaScript, Firebase, Bootstrap, TailwindCSS, and More. <b> Currently, I'm open to work and employment opportunities.</b></p>
+<hr><hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinarafat4&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafat4" /> </p>
 
@@ -32,7 +33,6 @@
 <a href="https://fb.com/mdyasinarafat.hasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdyasinarafat.hasib" height="30" width="40" /></a>
 <a href="https://instagram.com/yasinahasib4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yasinahasib4/" height="30" width="40" /></a>
 <a href="https://medium.com/@mdyasinarafathasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdyasinarafathasib" height="30" width="40" /></a>
-<a href="https://discord.com/users/1134766673434521630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1134766673434521630" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

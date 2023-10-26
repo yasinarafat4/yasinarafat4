@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/yasinarafat04" target="blank"><img src="https://img.shields.io/twitter/follow/yasinarafat04?logo=twitter&style=for-the-badge" alt="yasinarafat04" /></a> </p>
 
 
-- 🌱 I’m currently learning **Redux, Next.Js**
+- 🌱 I’m currently learning **Redux, Next.Js, TypeScript**
 
 - 👨‍💻 All of my key projects are available at [https://arafatwebfolio.vercel.app/](https://arafatwebfolio.vercel.app/)
 

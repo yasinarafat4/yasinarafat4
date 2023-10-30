@@ -55,6 +55,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinarafat4&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/><hr/>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+I'm+always+ready+to+collab+:);" />
-</p>
+<div align="center">
+  <h1 >Thank you for visiting!✌️</h1>
+</div>
+<div align="center">
+  
+ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/md-yasin-arafat-hasib4/)
+  
+ <h3 >I'm open to collaboration opportunities.</h3>
+ </div>

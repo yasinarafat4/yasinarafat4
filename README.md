@@ -3,10 +3,35 @@
     <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="800" height="350">
   </a>
 </div>
-<h1 align="center">Hi there 👋, I'm Md. Yasin Arafat</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yasin+Arafat!;" />
+</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<p>I am a Front-end Developer with a huge love for React.js, Node, MongoDB, JavaScript, Firebase, Bootstrap, TailwindCSS, and More. <b> Currently, I'm open to work and employment opportunities.</b></p>
-<hr><hr/>
+
+<div align="center">
+ 
+ 
+ 🌱 I’m currently learning **Redux, Next.Js, TypeScript**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or give me Feedback [here](https://github.com/yasinarafat4/FAQs-or-Issues/issues)**
+ 
+ 📄 Know about my experiences [here](https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link)
+ 
+ ⚡ Fun fact **I am friendly, funny, and an active listener**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mdyasinarafathasib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/md-yasin-arafat-hasib4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://arafatwebfolio.vercel.app/">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinarafat4&label=Profile%20views&color=0e75b6&style=flat" alt="yasinarafat4" /> </p>
 
@@ -14,21 +39,14 @@
 
 <p align="left"> <a href="https://twitter.com/yasinarafat04" target="blank"><img src="https://img.shields.io/twitter/follow/yasinarafat04?logo=twitter&style=for-the-badge" alt="yasinarafat04" /></a> </p>
 
+<br/>
 
-- 🌱 I’m currently learning **Redux, Next.Js, TypeScript**
 
-- 👨‍💻 All of my key projects are available at [https://arafatwebfolio.vercel.app/](https://arafatwebfolio.vercel.app/)
-
-- 📫 How to reach me **mdyasinarafathasib@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link](https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link)
-
-- ⚡ Fun fact **I am friendly, funny, and an active listener**
+ <hr/>
 <img align="right" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif" alt="Coding" />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasinarafat04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinarafat04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-yasin-arafat-hasib4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-yasin-arafat-hasib4/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22805034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22805034" height="30" width="40" /></a>
 <a href="https://fb.com/mdyasinarafat.hasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdyasinarafat.hasib" height="30" width="40" /></a>
 <a href="https://instagram.com/yasinahasib4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yasinahasib4/" height="30" width="40" /></a>

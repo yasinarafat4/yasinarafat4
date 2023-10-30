@@ -62,5 +62,5 @@
   
  Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/md-yasin-arafat-hasib4/)
   
- <h3 >I'm open to collaboration opportunities.</h3>
+ <h3 >I'm always open to collaboration opportunities.</h3>
  </div>

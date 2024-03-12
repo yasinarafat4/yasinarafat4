@@ -15,7 +15,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or give me Feedback [here.](https://github.com/yasinarafat4/FAQs-or-Issues/issues)**
  
- 📄 Know about my experiences [here.]([https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link])
+ 📄 Know about my experiences [here.](https://drive.google.com/file/d/1XFLBPiMvsC5zaCRXvKYVMf2OGZ10NBHU/view?usp=drive_link)
  
  ⚡ Fun fact **I am friendly, funny, and an active listener**
  

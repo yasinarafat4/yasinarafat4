@@ -70,7 +70,7 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ![yasinarafat4's Stats](https://github-readme-stats.vercel.app/api?username=yasinarafat4&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
+![yasinarafat4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinarafat4&theme=darcula&show_border=false)<br/>
 ![yasinarafat4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinarafat4&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 <br/><hr/>

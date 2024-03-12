@@ -62,7 +62,7 @@
 </div>
 <div align="center">
   
- Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/md-yasin-arafat-hasib4/)
+ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/md-yasin-arafat-hasib4/) Or
   
  <h3 >I'm always open to collaboration opportunities.</h3>
  </div>

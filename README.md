@@ -2,7 +2,6 @@
   <a href="https://arafatwebfolio.vercel.app/">
     <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="800">
   </a>
-
 </div>
 
 <h1 align="center">

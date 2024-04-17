@@ -18,7 +18,7 @@
  📄 Know about my experiences [here.](https://drive.google.com/file/d/1w7T5Li4r2K8tLR1kd2xUePJQyvqE_QGp/view)
  
  ⚡ Fun fact **I am friendly, funny, and an active listener**
- 
+
  </div>
  
 <div align="center"> 

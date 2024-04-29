@@ -9,7 +9,6 @@
 <h3  align="center">A passionate Web Developer with Frontend Focus</h3>
 
 <div align="center">
-
  🌱 I’m currently learning **Redux, Next.Js, TypeScript**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or give me Feedback [here.](https://github.com/yasinarafat4/FAQs-or-Issues/issues)**
